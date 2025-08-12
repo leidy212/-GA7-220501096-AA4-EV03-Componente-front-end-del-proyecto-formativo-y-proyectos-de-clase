@@ -1,0 +1,16 @@
+com\ladyspa\LadySpaApiApplication.class
+com\ladyspa\service\ReservaService.class
+com\ladyspa\config\CorsConfig.class
+com\ladyspa\controller\ReservaController.class
+com\ladyspa\controller\ServicioController.class
+com\ladyspa\model\Reserva.class
+com\ladyspa\controller\AuthController.class
+com\ladyspa\repository\ReservaRepository.class
+com\ladyspa\model\Usuario.class
+com\ladyspa\service\UsuarioService.class
+com\ladyspa\repository\UsuarioRepository.class
+com\ladyspa\dto\ReservaRequest.class
+com\ladyspa\dto\LoginRequest.class
+com\ladyspa\controller\UsuarioController.class
+com\ladyspa\dto\ApiResponse.class
+com\ladyspa\config\GlobalExceptionHandler.class
